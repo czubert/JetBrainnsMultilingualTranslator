@@ -16,11 +16,6 @@ class Translator:
         self.word = word
 
     def main(self):
-        # self.greet()
-        # self.get_source_lang()
-        # transl_lang_nr = self.get_transl_lang()
-        # self.get_word_to_translate()
-
         if self.to_lang != "all":
             soup = self.get_web_content(self.to_lang)
             if soup:
@@ -39,22 +34,6 @@ class Translator:
         with open(f'{self.word}.txt', 'r', encoding='utf-8') as f:
             for el in f.readlines():
                 print(el, end='')
-    #
-    # def greet(self):
-    #     welcome_msg = 'Hello, welcome to the translator. Translator supports:'
-    #     print(welcome_msg)
-    #     for i, el in self.__languages.items():
-    #         print(f"{i}. {el}")
-    #
-    # def get_source_lang(self):
-    #     print("Type the number of your language: ")
-    #     user_lang = int(input())
-    #     self.source_lang = self.__languages[user_lang]
-    #
-    # def get_transl_lang(self):
-    #     print("Type the number of a language you want to translate to or '0' to translate to all languages:")
-    #     transl_lang_nr = int(input())
-    #     return transl_lang_nr
 
     def get_word_to_translate(self):
         print('Type the word you want to translate:')
