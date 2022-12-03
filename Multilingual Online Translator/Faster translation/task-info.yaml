@@ -180,6 +180,109 @@ files:
     if __name__ == '__main__':
         TranslatorTest('translator.translator').run_tests()
   learner_created: false
+- name: translator/do.txt
+  visible: true
+  text: |+
+    Arabic Translations:
+    فعل
+
+    Arabic Example:
+    Research project MCLExtreme developing racing cars that will do almost everything.
+    You can perform everything you usually do in Excel.
+
+
+    German Translations:
+    tun
+
+    German Example:
+    Let people do what they want to do.
+    Lass Menschen tun was sie tun wollen.
+
+
+    Spanish Translations:
+    hacer
+
+    Spanish Example:
+    They cannot do what normal blood cells do.
+    No pueden realizar lo que hacen las células sanguíneas normales.
+
+
+    French Translations:
+    faire
+
+    French Example:
+    Just do what you normally do.
+    Fais juste ce que tu as l'habitude de faire.
+
+
+    Hebrew Translations:
+    לעשות
+
+    Hebrew Example:
+    Whatever councilmen do, they do upstairs.
+    ' Why do they do everything Their mothers do?
+
+
+    Japanese Translations:
+    私
+
+    Japanese Example:
+    And what do those thoughts tell you to do?
+    彼らは無視出来なくなった その考えはあなたに 何をさせようとするの？
+
+
+    Dutch Translations:
+    hebben
+
+    Dutch Example:
+    We don't do photofits of sunglasses.
+    We doen geen gezichtsidentificatie aan de hand van zonnebrillen.
+
+
+    Polish Translations:
+    zrobić
+
+    Polish Example:
+    What do I do? about his foreskin.
+    Co robię? o jego napletku.
+
+
+    Portuguese Translations:
+    fazer
+
+    Portuguese Example:
+    Grandpa shark, do do do, do do do.
+    Vovô tubarão faz, faz, faz.
+
+
+    Romanian Translations:
+    face
+
+    Romanian Example:
+    No, we do don't do anything without direct confirmation from Mason King.
+    Nu, nu facem nimic fără confirmare directă de la Mason King.
+
+
+    Russian Translations:
+    делать
+
+    Russian Example:
+    Very exciting watching you do what you do.
+    Это очень воодушевляюще - смотреть на то, что вы делаете.
+
+
+    Turkish Translations:
+    yapmak
+
+    Turkish Example:
+    Teachers do, doctors do, police do.
+    Öğretmenler yapıyor, doktorlar yapıyor, polisler yapıyor.
+
+
+  learner_created: true
 feedback_link: https://hyperskill.org/projects/99/stages/548/implement#comment
-status: Unchecked
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Sat, 03 Dec 2022 22:59:29 UTC"
 record: -1
