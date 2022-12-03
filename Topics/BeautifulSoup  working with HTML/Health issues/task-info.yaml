@@ -1,0 +1,18 @@
+type: code
+files:
+- name: main.py
+  visible: true
+  text: |-
+    import requests
+
+    from bs4 import BeautifulSoup
+
+    letter = 'S'
+    url = input()
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/13066#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: "Thu, 01 Dec 2022 23:56:01 UTC"
+record: -1
