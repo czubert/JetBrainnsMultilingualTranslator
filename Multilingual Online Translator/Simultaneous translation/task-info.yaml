@@ -184,6 +184,15 @@ files:
     if __name__ == '__main__':
         TranslatorTest('translator.translator').run_tests()
   learner_created: false
+- name: translator/do.txt
+  visible: true
+  learner_created: true
+- name: miracles.txt
+  visible: true
+  learner_created: true
 feedback_link: https://hyperskill.org/projects/99/stages/547/implement#comment
-status: Unchecked
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Sat, 03 Dec 2022 21:25:49 UTC"
 record: -1
