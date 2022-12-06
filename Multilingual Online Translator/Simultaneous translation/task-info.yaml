@@ -187,7 +187,7 @@ files:
 - name: translator/do.txt
   visible: true
   learner_created: true
-feedback_link: https://hyperskill.org/projects/99/stages/547/implement#comment
+feedback_link: https://hyperskill.org/learn/step/8974#comment
 status: Solved
 feedback:
   message: Congratulations!

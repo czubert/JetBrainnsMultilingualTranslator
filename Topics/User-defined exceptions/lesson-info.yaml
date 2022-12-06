@@ -1,0 +1,9 @@
+content:
+- Theory
+- Raising exceptions
+- Exceptions and feedbacks
+- Name of the class
+- Exceptions and Comparisons
+- Display the message
+- The __str__ method in exceptions
+- The __init__ method

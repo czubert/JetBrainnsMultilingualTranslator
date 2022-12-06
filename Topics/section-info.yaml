@@ -1,3 +1,6 @@
 content:
 - Loop control statements
 - BeautifulSoup  working with HTML
+- Method overriding
+- User-defined exceptions
+- Assert statement
